@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sage Theme Options\n"
+"POT-Creation-Date: 2023-01-01 00:00+0000\n"
+"PO-Revision-Date: 2023-01-01 00:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: sage-theme-options\n"
+
+msgid "Theme Options"
+msgstr "Theme Options"
+
+msgid "General"
+msgstr "General"
+
+msgid "SEO"
+msgstr "SEO"
+
+msgid "Advertisements"
+msgstr "Advertisements"
+
+msgid "Scripts & Integrations"
+msgstr "Scripts & Integrations"
+
+msgid "Footer"
+msgstr "Footer"
+
+msgid "Options saved!"
+msgstr "Options saved!"
+
+msgid "Save Changes"
+msgstr "Save Changes"
+
+msgid "Logo"
+msgstr "Logo"
+
+msgid "Upload Logo"
+msgstr "Upload Logo"
+
+msgid "Remove"
+msgstr "Remove"
+
+msgid "Favicon"
+msgstr "Favicon"
+
+msgid "Upload Favicon"
+msgstr "Upload Favicon"
+
+msgid "Recommended size: 32x32 or 16x16 pixels."
+msgstr "Recommended size: 32x32 or 16x16 pixels."
+
+msgid "Heading 1"
+msgstr "Heading 1"
+
+msgid "Enter your main heading text."
+msgstr "Enter your main heading text."
+
+msgid "SEO Content"
+msgstr "SEO Content"
+
+msgid "Enter your SEO content here."
+msgstr "Enter your SEO content here."
+
+msgid "Header Ads"
+msgstr "Header Ads"
+
+msgid "Enter your header advertisement code."
+msgstr "Enter your header advertisement code."
+
+msgid "Underplay Ads"
+msgstr "Underplay Ads"
+
+msgid "Enter your underplay advertisement code."
+msgstr "Enter your underplay advertisement code."
+
+msgid "Footer Ads"
+msgstr "Footer Ads"
+
+msgid "Enter your footer advertisement code."
+msgstr "Enter your footer advertisement code."
+
+msgid "Google Site Verification"
+msgstr "Google Site Verification"
+
+msgid "Enter your Google site verification code."
+msgstr "Enter your Google site verification code."
+
+msgid "Other Scripts"
+msgstr "Other Scripts"
+
+msgid "Enter any additional scripts you want to add to the header."
+msgstr "Enter any additional scripts you want to add to the header."
+
+msgid "Footer Content"
+msgstr "Footer Content"
+
+msgid "Enter your footer content here."
+msgstr "Enter your footer content here."
+
+msgid "Security check failed"
+msgstr "Security check failed"
+
+msgid "Unauthorized access"
+msgstr "Unauthorized access"

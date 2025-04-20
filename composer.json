@@ -1,0 +1,31 @@
+
+{
+    "name": "nid/sage-theme-options",
+    "description": "Advanced theme options pack for Sage and Acorn with logo upload, favicon, SEO content, ads management, and more",
+    "type": "package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Niddz",
+            "email": "dong18clip@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Niddz\\SageThemeOptions\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4",
+        "roots/acorn": "^2.0"
+    },
+    "extra": {
+        "acorn": {
+            "providers": [
+                "Niddz\\SageThemeOptions\\ThemeOptionsServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
