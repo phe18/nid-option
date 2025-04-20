@@ -83,14 +83,14 @@ class ThemeOptionsServiceProvider extends ServiceProvider
 
         wp_enqueue_style(
             'sage-theme-options-styles',
-            $this->app['sage.assets']->get('styles/theme-options.css')->uri(),
+            get_template_directory_uri() . '/vendor/nid/sage-theme-options/resources/assets/styles/theme-options.css',
             [],
-            null
+            time() // Thêm query string để ngăn chặn cache
         );
 
         wp_enqueue_script(
             'sage-theme-options-scripts',
-            $this->app['sage.assets']->get('scripts/theme-options.js')->uri(),
+            get_template_directory_uri() . '/vendor/nid/sage-theme-options/resources/assets/scripts/theme-options.js', // Đường dẫn chính xác tới JS trong vendor
             ['jquery', 'wp-color-picker'],
             null,
             true
