@@ -1,6 +1,6 @@
 <?php
 
-namespace YourVendor\SageThemeOptions;
+namespace Niddz\SageThemeOptions;
 
 use Illuminate\Support\ServiceProvider;
 use Roots\Acorn\Sage\SageFeatures;
