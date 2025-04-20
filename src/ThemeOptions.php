@@ -1,6 +1,6 @@
 <?php
 
-namespace YourVendor\SageThemeOptions;
+namespace Niddz\SageThemeOptions;
 
 class ThemeOptions
 {
